@@ -6,7 +6,7 @@ import torch
 
 
 bucket_name = 'test-deploy-241218' 
-local_path = 's3_download_1'
+local_path = 'tinybert-sentiment-analysis'
 s3_prefix = 'ml-models/tinybert-sentiment-analysis/'
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
