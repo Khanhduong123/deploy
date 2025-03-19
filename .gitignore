@@ -1,0 +1,6 @@
+tinybert-sentiment-analysis/*
+traindir/*
+ec2_deploy/*
+mlruns/*
+s3_download_1/*
+notebook/*
